@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "https://github.com/DEVPlatForm4224/SeeA-Player-apk/releases/download/v1.1.1/click_me_to_install_seea_player.apk",
+  "apkUrl": "https://github.com/DEVPlatForm4224/SeeA-Reminder-Study-Timer-fo-Focus/releases/download/v1.1/click_me_to_download_seea_reminder.apk",
   "changelog": "- New feature 2\n- Improved performance\n- Bug fixes\n- UI improvements for smoother navigation\n- Enhanced security with new encryption methods\n- Fixed crash issue on startup\n- Optimized battery usage\n- Support for multiple languages\n- Reduced app size for quicker installation\n- In UpdateActivity add the feature of IN App Update.JaiDSharma_complete."
 }
