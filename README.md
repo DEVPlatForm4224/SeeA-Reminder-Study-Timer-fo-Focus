@@ -3,7 +3,7 @@
 # SeeA Reminder  
 > Your personal, smart reminder app for Android
 
-![SeeA Reminder]([docs/logo.png](https://media-hosting.imagekit.io/f44d6ed38c124f21/seea_reminder_logo_done.jpg))
+![SeeA Reminder]([[docs/logo.png](https://media-hosting.imagekit.io/f44d6ed38c124f21/seea_reminder_logo_done.jpg)](https://media-hosting.imagekit.io/f44d6ed38c124f21/seea_reminder_logo_done.jpg?Expires=1838482671&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cBcQt~Yf9brbK~sW0w61aA9BOfi9-E8kbzLQt62LdzVWeIlgei2p1pMlcdr9YJVSBhpGu9Q-zB4Q-9S5Sttb5Gg9UAvTls6765XJoLAap2W351ANtz~PKSqls-0tSjo82zublamR5SHvJaI29ItB3LeN0sLCh5P63fjsuo71rUTih2dvC3VyCNhWwRzYAOdYIFZ4UI9TtGoj2Ray5~82pNsP6D0zzDmav14T7hw1Qgs7uc9EwNon4VunOlCN5NJULYBtMQbXpoIYMjDs~oBvJwTZZ3T6SuaBIKJsogpOvz~vJkI6kal27m145j24HeILHpzJakvLDivTGTeOdmuC5w__))
 
 **SeeA Reminder** is a lightweight, intuitive Android app by **DEV Platform, Inc.** that helps you schedule and manage reminders with ease. Featuring customizable notifications, smart scheduling suggestions powered by AI, and robust privacy protections, SeeA Reminder ensures you never miss an important task.
 
