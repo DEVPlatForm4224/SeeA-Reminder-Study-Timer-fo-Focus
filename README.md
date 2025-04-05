@@ -27,7 +27,7 @@
 - 🔔 **Rich Notifications**: Customize reminder notifications and actions.
 - 🤖 **Smart Suggestions**: AI‑powered recommendations for optimal reminder times.
 - 🌙 **Do‑Not‑Disturb Support**: Respect system DND settings when delivering alerts.
-- 🔒 **Privacy‑First**: All data stays on your device; see our [Privacy Notice](https://seeaplayer.com/seea-reminder-privacy) for details.
+- 🔒 **Privacy‑First**: All data stays on your device; see our [Privacy Notice](https://github.com/DEVPlatForm4224/SeeA-Reminder-Study-Timer-fo-Focus/issues/7#issue-2974399442) for details.
 - 🔄 **Seamless Sync**: Optional cloud backup via Firebase for multi‑device use.
 - 🌐 **Social Login**: Sign in with Facebook or X to sync preferences.
 
