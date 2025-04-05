@@ -32,9 +32,9 @@
 - 🌐 **Social Login**: Sign in with Facebook or X to sync preferences.
 
 ## Screenshots
-![Home Screen](docs/screenshots/home.png)
-![Create Reminder](docs/screenshots/create.png)
-![Settings](docs/screenshots/settings.png)
+![Home Screen](https://github.com/DEVPlatForm4224/SeeA-Reminder-Study-Timer-fo-Focus/issues/3#issue-2974397206)
+![Create Reminder](https://github.com/DEVPlatForm4224/SeeA-Reminder-Study-Timer-fo-Focus/issues/4#issue-2974397551)
+![Settings](https://github.com/DEVPlatForm4224/SeeA-Reminder-Study-Timer-fo-Focus/issues/5#issue-2974397689)
 
 ## Installation
 1. Clone this repository:
