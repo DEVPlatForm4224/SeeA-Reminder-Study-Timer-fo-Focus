@@ -62,20 +62,6 @@ SeeA Reminder respects your privacy. All data is processed locally unless you op
 - **Privacy Notice**: https://seeaplayer.com/seea-reminder-privacy
 - **Terms of Service**: https://seeaplayer.com/seea-reminder-terms
 
-## Contributing
-Contributions are welcome! Please:
-1. Fork the repo.
-2. Create a feature branch (`git checkout -b feature/foo`).
-3. Commit your changes (`git commit -am 'Add foo feature'`).
-4. Push to the branch (`git push origin feature/foo`).
-5. Open a Pull Request.
-
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and ensure all new code is covered by unit tests.
-
 ## Support
 - **Email**: help.seeareminder11@gmail.com  
 - **Phone**: +91 88513 27632
-
-## License
-SeeA Reminder is released under the [MIT License](LICENSE).
-
