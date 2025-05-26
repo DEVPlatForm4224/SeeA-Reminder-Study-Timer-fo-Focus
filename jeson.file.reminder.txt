@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.3.2",
-  "apkUrl": "https://github.com/DEVPlatForm4224/SeeA-Reminder-Study-Timer-fo-Focus/releases/download/v.1.1.10/click_me_to_install_seea_reminder.apk",
+  "versionCode": 13,
+  "versionName": "1.3.3",
+  "apkUrl": "https://github.com/DEVPlatForm4224/SeeA-Reminder-Study-Timer-fo-Focus/releases/download/v.1.1.11/click_me_to_install_seea_reminder.apk",
   "changelog": "- New feature 2\n- Improved performance\n- Bug fixes\n- UI improvements for smoother navigation\n- Enhanced security with new encryption methods\n- Fixed crash issue on startup\n- Optimized battery usage\n- Support for multiple languages\n- Reduced app size for quicker installation\n- In UpdateActivity add the feature of IN App Update.JaiDSharma_complete."
 }
